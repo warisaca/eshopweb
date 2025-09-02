@@ -1,0 +1,23 @@
+{
+  "name": "cd-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitthapat-j/node-cd-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitthapat-j/node-cd-webapp/issues"
+  },
+  "homepage": "https://github.com/kitthapat-j/node-cd-webapp#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
